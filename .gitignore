@@ -1,0 +1,12 @@
+target/
+!/src/**/target/**
+.project
+.settings/
+.classpath
+*.iml
+.idea/
+.DS_Store
+.gradle
+**/build/**
+
+log.txt

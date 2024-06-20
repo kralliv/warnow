@@ -1,0 +1,5 @@
+rootProject.name = 'warnow'
+include 'warnow-compiler-plugin'
+include 'warnow-gradle-plugin'
+include 'warnow-runtime'
+
